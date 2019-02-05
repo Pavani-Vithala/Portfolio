@@ -1,0 +1,68 @@
+/*
+Theme Name: Vevo - One Page Portfolio Cv Resume Template
+Theme URI: http://vevo.themehaven.net
+Author: Coder_hunt
+Author URI: https://themeforest.net/user/coder_hunt
+Version: 1.0
+Description: Vevo - One Page Portfolio Cv Resume Template
+Tags: vevo, one page, portfolio, minimal, creative, html template, html5 template, portfolio template, site template
+Text Domain: Vevo
+*/
+/* ------------
+    Color-4 Css 1f1f1f
+ --------------*/
+.color-switcher h6 {background: #1f1f1f;}
+.color-switcher .switcher-btn {background-color: #1f1f1f;}
+.section-title h3 {color: #fafafa;}
+/*.about  {background-image: url("../../images/about/aboutbg-dark.jpg");}*/
+.about-content p {color: #c5c5c5;}
+.about-content .chart span,
+.about-content h4 {color: #fafafa;}
+.service {background: #1f1f1f;}
+.service .single-service {background: #292929;}
+.service .single-service h5 {color: #fafafa;}
+.service .single-service p {color: #c5c5c5;}
+.service .owl-theme .owl-controls .owl-page.active span {background: #fafafa;}
+.portfolio {background: #292929;}
+.portfolio .portfolio-filter li,
+.portfolio .portfolio-filter li.active {color: #c5c5c5;}
+.portfolio .portfolio-items .single-portfolio .portfolio-image {box-shadow: none;}
+.portfolio .portfolio-items .single-portfolio .portfolio-image::after {background: rgba(0, 0, 0, 0.7);}
+.portfolio .portfolio-items .single-portfolio .portfolio-content {background: #1f1f1f;}
+.portfolio .portfolio-items .single-portfolio .portfolio-content h6 a {color: #fafafa;}
+.portfolio .portfolio-items .single-portfolio .portfolio-content p {color: #c5c5c5;}
+.resume {background: #1f1f1f;}
+.resume .experience> span,
+.resume .education> span {color: #fafafa;}
+.resume .single-info {background: #292929;}
+.resume .single-info:hover {box-shadow: 1px 1px 10px #292929;}
+.resume .single-info h4 {color: #fafafa;}
+.resume .single-info p {color: #c5c5c5;}
+.testimonial .single-testimonial .testimonial-content {background: #1f1f1f;}
+.testimonial .single-testimonial .testimonial-content i {color: #fafafa;}
+.testimonial .single-testimonial .testimonial-content p {color: #c5c5c5;}
+.blog {background: #1f1f1f;}
+.blog .single-blog .blog-content {background: #292929;}
+.blog .single-blog .blog-content h5 a {color: #fafafa;}
+.blog .single-blog .blog-content p {color: #c5c5c5;}
+.blog .single-blog .blog-content .separetor {background: #8c8989;}
+.blog .single-blog .blog-content span {color: #c5c5c5;}
+.breadcumb span a.active {color: #ff724c;}
+.blog-list .single-blog-post .blog-post-content > a {background: #ff724c;border: 2px solid #ff724c;}
+.blog-sidebar-widget .single-blog-recent .recent-content a:hover {color: #ff724c;}
+.blog-sidebar-widget .blog-social .social-newsfeed {background: #ff724c;}
+.blog-sidebar-widget .blog-archive .single-archive a:hover {color: #ff724c;}
+.blog-pagination .pagination a.active {background-color: #ff724c;border: 1px solid #ff724c;}
+.blog-pagination .pagination a:hover {background-color: #ff724c;border: 1px solid #ff724c;}
+.contact {background: #292929;}
+.contact .contact-form {background: #1f1f1f;box-shadow: 1px 1px 10px #1f1f1f;}
+.contact .contact-address-link .single-address-link {background: #292929;}
+.contact .contact-address-link .single-address-link p {color: #c5c5c5;}
+.contact .contact-form h5 {color: #fafafa;}
+.contact .contact-form .form input[placeholder],
+.contact .contact-form .form textarea[placeholder] {color: #c5c5c5;}.contact .contact-form .form input,
+.contact .contact-form .form textarea {background: #1f1f1f;}
+#footer .copyright a:hover {color: #ff724c;}
+
+
+

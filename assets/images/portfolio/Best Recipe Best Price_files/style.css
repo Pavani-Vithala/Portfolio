@@ -1,0 +1,119 @@
+header{
+    padding: 40px;
+    background-color: black;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    background-image: url("logo_best_recipe.png");
+
+    /*background: url("../images/concrete_seamless.png");
+}*/
+
+}
+
+/*.row{
+    float: right;
+}
+*/
+
+.row{
+    margin-left: 400 px;
+}
+
+.videos, 
+.recipe
+{
+    display:flex;
+    justify-content: space-between;
+    margin-top:150px;
+    /*background: url(logo_best_recipe.png);*/
+    
+}
+
+.video-Item
+{
+
+    height: 200px;
+    width: 25%;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+
+.Ingredient-List
+{
+    height: 600px;
+    width: 25%;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+    margin-right:40px;
+    
+    /*background: url(logo_best_recipe.png); background-image: url(logo_best_recipe.png);*/
+}
+
+
+
+
+.left-panel{
+    width:70%;
+    float:left;
+}
+
+.right-panel{
+    width:30%;
+    float:right;
+}
+
+form{
+    margin-left: 40px;
+}
+
+button{
+    margin-top: 15px;
+    background-color:red;
+    padding: 15px, 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    color:white;
+    
+
+}
+
+    button:hover {
+        background-color:pink;
+        
+        
+        
+        
+
+}
+
+body{
+    background-image: url(logo_best_recipe_transparent.png);
+    background-repeat: no-repeat;
+}
+
+/*.a{
+    border: 200px;
+    }
+    */
+
+a {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    
+}

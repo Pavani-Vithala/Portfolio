@@ -1,0 +1,47 @@
+/*
+Theme Name: Vevo - One Page Portfolio Cv Resume Template
+Theme URI: http://vevo.themehaven.net
+Author: Coder_hunt
+Author URI: https://themeforest.net/user/coder_hunt
+Version: 1.0
+Description: Vevo - One Page Portfolio Cv Resume Template
+Tags: vevo, one page, portfolio, minimal, creative, html template, html5 template, portfolio template, site template
+Text Domain: Vevo
+*/
+/* ------------
+    Color-4 Css 00b85b
+ --------------*/
+.color-switcher h6 {background: #00b85b;}
+.color-switcher .switcher-btn {background-color: #00b85b;}
+.header-area .logo a span {color: #00b85b;}
+.mainmenu ul.nav.navbar-nav > li.active > a {color: #00b85b;}
+.mainmenu ul.nav.navbar-nav > li:hover > a {color: #00b85b;}
+.header-text h2 span {color: #00b85b;}
+.header-text .home-btn .btn {background: #00b85b;border: 2px solid #00b85b;}
+.about-content h4 {color: #00b85b;}
+.fun-facts .fact i {color: #00b85b;}
+.service .single-service i {background: #00b85b;border: 1px solid #00b85b;}
+.video-promo .video-content i {color: #00b85b;}
+.portfolio .portfolio-filter li:hover {color: #00b85b;}
+.portfolio .portfolio-items .single-portfolio .portfolio-image .portfolio-icon i {color: #00b85b;}
+.portfolio .portfolio-items .single-portfolio .portfolio-content h6 a:hover {color: #00b85b;}
+.resume .experience i, .resume .education i {background: #00b85b;}
+.resume .single-info .info-title {color: #00b85b;}
+.testimonial .single-testimonial .testimonial-info p {color: #00b85b;}
+.blog .single-blog .blog-content h5 a:hover {color: #00b85b;}
+.breadcumb span a.active {color: #00b85b;}
+.blog-list .single-blog-post .blog-post-content > a {background: #00b85b;border: 2px solid #00b85b;}
+.blog-sidebar-widget .single-blog-recent .recent-content a:hover {color: #00b85b;}
+.blog-sidebar-widget .blog-social .social-newsfeed {background: #00b85b;}
+.blog-sidebar-widget .blog-archive .single-archive a:hover {color: #00b85b;}
+.blog-pagination .pagination a.active {background-color: #00b85b;border: 1px solid #00b85b;}
+.blog-pagination .pagination a:hover {background-color: #00b85b;border: 1px solid #00b85b;}
+.contact .contact-address-link .single-address-link i {background: #00b85b;}
+.contact .contact-form .form input[type="submit"] {border: 2px solid #00b85b;background: #00b85b;}
+#footer .copyright a:hover {color: #00b85b;}
+.scrollTop {background: #00b85b;}
+.scrollTop:hover {background: #00b85b;}
+
+
+
+

@@ -1,0 +1,381 @@
+/*
+Name: Responsive CSS File - Vevo - One Page Portfolio Personal Cv Resume Template
+Author: Coder_hunt
+Version: 1.0
+*/
+
+/*----------------------------------------
+  1 - Medium Device start
+------------------------------------------*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .section-title h3 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .header-text h2 {
+        font-size: 86px;
+    }
+    .type h2 {
+        font-size: 58px;
+    }
+    .fun-facts {
+        padding: 40px 0;
+    }
+    .blog .single-blog .blog-content h5 a {
+        letter-spacing: 0;
+    }
+    .blog-list .single-blog-post .blog-post-content {
+        padding: 0;
+    }
+    .blog-list .single-blog-post .blog-post-content h4 {
+        font-size: 16px;
+    }
+    .contact .contact-form {
+        padding: 60px;
+    }
+    .contact .contact-address-link .single-address-link {
+        padding: 30px;
+    }
+    .contact .contact-address-link .single-address-link p {
+        font-size: 13px;
+    }
+}
+/* End of Medium Device */
+/*----------------------------------------
+  2 - Tablet Device start
+------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .section-title h3 {
+        font-size: 30px;
+    }
+    .header-text h2 {
+        font-size: 80px;
+    }
+    .type h2 {
+        font-size: 60px;
+    }
+    .about {
+        padding: 40px 0;
+    }
+    .fun-facts {
+        padding: 40px 0;
+    }
+    .service {
+        padding: 80px 0;
+    }
+    .video-promo {
+        padding: 80px 0;
+    }
+    .portfolio {
+        padding: 80px 0;
+    }
+    .portfolio .portfolio-items .single-portfolio .portfolio-content {
+        padding: 20px 25px 25px;
+    }
+    .portfolio .portfolio-items .single-portfolio .portfolio-content h6 a {
+        font-size: 15px;
+    }
+    .resume {
+        padding: 80px 0;
+    }
+    .resume .single-info p {
+        font-size: 12px;
+    }
+    testimonial {
+        padding: 80px 0;
+    }
+    .blog {
+        padding: 80px 0;
+    }
+    .blog-pd {
+        padding: 40px 0 80px;
+    }
+    .blog-list.blog-pd {
+        padding: 40px 0 80px;
+    }
+    .blog-list .single-blog-post {
+        padding: 0 0 40px;
+    }
+    .blog-list .single-blog-post:last-child {
+        padding-bottom: 80px;
+    }
+    .blog-list .single-blog-post .blog-post-content {
+        padding: 0;
+        margin-top: 25px;
+    }
+    .blog-sidebar-widget .blog-search {
+        margin-top: 30px;
+    }
+    .blog-sidebar-widget .single-blog-recent .recent-content a {
+        font-size: 13px;
+    }
+    .blog-sidebar-widget .blog-social .social-newsfeed p {
+        line-height: 20px;
+    }
+    .contact {
+        padding: 80px 0;
+    }
+    .map {
+        padding-top: 80px;
+    }
+    .contact .contact-form {
+        padding: 30px;
+    }
+    .contact .contact-address-link .single-address-link {
+        padding: 15px;
+    }
+    .contact .contact-address-link .single-address-link i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .contact .contact-address-link .single-address-link p {
+        font-size: 12px;
+    }
+    .contact .contact-form h5 {
+        font-size: 16px;
+    }
+}
+/* End of Tablet Device */
+/*----------------------------------------
+  3 - Mobile Device start
+------------------------------------------*/
+/* Mobile Device - Portait */
+@media only screen and (max-width: 767px) {
+    .section-title h3 {
+        font-size: 26px;
+    }
+    .header-text-area {
+        text-align: center;
+    }
+    .header-area {
+        background-color: #000;
+        opacity: 1;
+        border: none;
+    }
+    .header-area .logo {
+        padding: 16px 0;
+    }
+    .header-area .logo a {
+        color: #fff;
+        font-size: 22px;
+    }
+    .mainmenu ul.nav.navbar-nav li {
+        background-color: #000;
+        display: block;
+        text-align: left;
+        z-index: 9999;
+    }
+    .mainmenu ul.nav.navbar-nav li a {
+        color: #fff;
+        padding: 7px 0;
+    }
+    .navbar-toggle {
+        margin-bottom: 18px;
+        margin-top: 18px;
+        padding: 10px 10px;
+        transition: .7s;
+    }
+    .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+     .is-sticky .header-area .logo {
+        padding: 15px 0;
+    }
+    .is-sticky .header-area .logo a {
+        color: #fff;
+        font-size: 18px;
+    }
+    .is-sticky .mainmenu ul.nav.navbar-nav li a {
+        padding: 8px 0;
+    }
+    .is-sticky .navbar-toggle {
+        margin: 14px 14px;
+    }
+    .header-text h2 {
+        font-size: 32px;
+        letter-spacing: 0;
+    }
+    .type h2 {
+        font-size: 34px;
+    }
+    .header-text p {
+        line-height: 18px;
+    }
+    .header-text .home-btn .btn {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+    .about {
+        background-image: none;
+        background-color: #edeef0;
+        padding: 20px 0;
+    }
+    .about .about-content {
+        text-align: center;
+    }
+    .about .equal {
+        display: block;
+    }
+    .about-content .chart span {
+        font-size: 20px;
+    }
+    .about-content .chart span::after {
+        font-size: 16px;
+    }
+    .about-content h4 {
+        font-size: 17px;
+    }
+    .fun-facts {
+        padding: 40px 0 0;
+    }
+    .fun-facts .fact {
+        padding: 0 0 40px;
+    }
+    .service {
+        padding: 60px 0;
+    }
+    .service .single-service {
+        padding: 40px;
+    }
+    .service .single-service i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        top: -25px;
+    }
+    .service .single-service h5 {
+        font-size: 15px;
+    }
+    .video-promo {
+        padding: 60px 0;
+    }
+    .video-promo .video-content h4 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .video-promo .video-content p {
+        font-size: 12px;
+    }
+    .portfolio {
+        padding: 60px 0;
+    }
+    .portfolio .portfolio-filter {
+        margin-top: 20px;
+    }
+    .resume {
+        padding: 60px 0;
+    }
+    .resume .experience > span,
+    .resume .education > span {
+        font-size: 20px;
+    }
+    .resume .single-info h4 {
+        font-size: 16px;
+    }
+    .resume .single-info h4::after {
+        margin-top: 10px;
+    }
+    .resume .single-info span {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .testimonial {
+        padding: 60px 0;
+    }
+    .blog {
+        padding: 60px 0;
+    }
+    .blog-pd {
+        padding: 20px 0 60px;
+    }
+    .blog-list.blog-pd {
+        padding: 20px 0 60px;
+    }
+    .blog .single-blog {
+        margin: 40px 0 0;
+    }
+    .blog .single-blog .blog-content h5 a {
+        font-size: 15px;
+        letter-spacing: 0;
+    }
+    .blog-list {
+        padding-top: 20px;
+    }
+    .blog-list .single-blog-post {
+        padding: 0 0 40px;
+    }
+    .blog-list .single-blog-post .blog-post-content {
+        padding: 0;
+        margin-top: 15px;
+    }
+    .blog-list .single-blog-post .blog-post-content h4 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .blog-list .blog-pagination {
+        margin-top: 30px;
+    }
+    .blog-sidebar-widget {
+        padding-bottom: 60px;
+    }
+    .blog-sidebar-widget .blog-search {
+        margin-top: 0;
+    }
+    .blog-sidebar-widget .blog-search h5 {
+        margin: 0 0 15px;
+    }
+    .blog-sidebar-widget .single-blog-recent .recent-content a {
+        line-height: 22px;
+        display: block;
+    }
+    .blog-sidebar-widget .single-blog-recent .recent-content i {
+        margin-top: 10px;
+    }
+    .contact {
+        padding: 60px 0;
+    }
+    .contact .contact-address-link .single-address-link i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .map {
+        padding-top: 60px;
+    }
+    .contact .contact-form {
+        padding: 20px;
+    }
+    .contact .contact-form h5 {
+        font-size: 16px;
+    }
+    #footer .copyright p {
+        font-size: 11px;
+    }
+}
+/* Mobile Device - Landscape */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .header-text h2 {
+        font-size: 42px;
+    }
+    .type h2 {
+        font-size: 56px;
+    }
+    .header-text p {
+        line-height: 14px;
+    }
+    .video-promo .video-content h4 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .video-promo .video-content p {
+        font-size: 14px;
+    }
+    .header-text .home-btn .btn {
+        margin-top: 25px;
+    }
+}
+/* End of Mobile Device */
